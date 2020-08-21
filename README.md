@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Any front end project 
 - 🤔 I’m looking for help with Back-end
 - 💬 Ask me about Any front end related stuff
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Linkedin - @manthan shah](https://www.linkedin.com/in/manthan-shah-357bb0190/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
