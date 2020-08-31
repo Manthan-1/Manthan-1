@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manthan-1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=5068f2">
+<img src="https://github-readme-stats.vercel.app/api?username=Manthan-1&&show_icons=true&title_color=ffffff&icon_color=000000&text_color=daf7dc&bg_color=5068f2">
